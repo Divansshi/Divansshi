@@ -1,4 +1,4 @@
-<h1 align="center">💗 Divansshi M 💗</h1>
+<h1 align="center">💗 Divansshi 💗</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F8A5C2&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%7C+Full-Stack+%26+Systems+Developer;Databases+%7C+Web+%7C+Software+Engineering;Building+clean+and+scalable+systems" />
