@@ -23,24 +23,17 @@ Currently looking for **software engineering internships**.
 
 ---
 
-### 🚀 Featured project
+### 🚀 Projects
 
 **[AttendAI](https://github.com/Divansshi/face-attendance-system)**: a face-recognition attendance system
 Students mark attendance by looking at a webcam. Lecturers enroll students, manage classes and review an audit log with a snapshot of every scan. Attendance is gated by class time window, once per day and campus network location, with hybrid classes allowed remotely.
 `Python` `Flask` `DeepFace` `OpenCV` `SQLite`
 
----
+**BoutiqueX**: a point-of-sale system for a fashion boutique, written in assembly
+`x86 NASM`
 
-### 📚 Academic projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| BoutiqueX POS | Point-of-sale system for a fashion boutique, written in assembly | x86 NASM |
-| Smart Healthcare Patient Management | Arrays vs. singly linked lists, compared for a hospital patient system | C++ |
-| APU Automotive Service Centre | Desktop service-centre management app | Java, Swing (OOP) |
-| Take of World Tour | Web-based tour booking platform | Web, SDM |
-| Enterprise network design | Multi-site network built and configured in Packet Tracer | Cisco Packet Tracer |
-| Employee attrition analysis | Exploratory analysis of what drives attrition | R |
+**Employee attrition analysis**: exploratory analysis of what drives employee attrition
+`R`
 
 ---
 
