@@ -25,9 +25,9 @@ Currently looking for **software engineering internships**.
 
 ### 🚀 Projects
 
-**[AttendAI](https://github.com/Divansshi/face-attendance-system)**: a face-recognition attendance system
+**[AttendAI](https://github.com/Divansshi/face-attendance-system)**: a face-recognition attendance system · [**▶ Live demo**](https://divansshi.pythonanywhere.com)
 Students mark attendance by looking at a webcam. Lecturers enroll students, manage classes and review an audit log with a snapshot of every scan. Attendance is gated by class time window, once per day and campus network location, with hybrid classes allowed remotely.
-`Python` `Flask` `DeepFace` `OpenCV` `SQLite`
+`Python` `Flask` `OpenCV` `DeepFace` `SQLite` `Docker`
 
 **BoutiqueX**: a point-of-sale system for a fashion boutique, written in assembly
 `x86 NASM`
