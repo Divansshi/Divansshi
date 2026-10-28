@@ -1,130 +1,72 @@
-<h1 align="center">💗 Divansshi 💗</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F8A5C2&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%7C+Full-Stack+%26+Systems+Developer;Databases+%7C+Web+%7C+Software+Engineering;Building+clean+and+scalable+systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=150&section=header&text=Divansshi%20Mukunthan&fontSize=36&fontColor=ffffff&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=140&section=header"/>
-</p>
-
----
-
-## 🌸 ABOUT ME
-
-<p align="center">
-I am a <b>Computer Science undergraduate</b> focused on building strong foundations in  
-<b>software engineering, systems design, databases, and web development</b>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=F8A5C2&center=true&vCenter=true&width=600&lines=Computer+Science+%40+APU+%2F+De+Montfort+University;Full-stack+%C2%B7+Data+%C2%B7+Networking+%C2%B7+UI%2FUX" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
+  <a href="https://www.linkedin.com/in/divansshiii"><img src="https://img.shields.io/badge/LinkedIn-F8A5C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:divansshiii@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 TECH STACK
+### 🌸 About
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
-</p>
+Second-year Computer Science student at Asia Pacific University, Kuala Lumpur, on the APU / De Montfort University dual degree. Vice Chancellor's List, AY 2025/2026.
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,canva" />
-</p>
+I've interned in software engineering and in data & business analysis. Mostly I like building things end to end, from the database to the screen someone actually uses.
 
-### Core Strengths
-- Programming Fundamentals (Python, Java, C)
-- Data Structures & Problem Solving
-- Web Development (HTML, CSS, JavaScript)
-- Database Design & SQL
-- Object-Oriented Programming
-- System & Software Design Principles
-
----
-## 🎓 ACADEMIC FOUNDATION
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science_Undergraduate-F8A5C2?style=for-the-badge&logo=academia&logoColor=white"/>
-</p>
+Currently looking for **software engineering internships**.
 
 ---
 
-### 📘 Level 1 – Core Computing
+### 🚀 Featured project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Foundations-FFD1DC?style=for-the-badge"/>
-</p>
-
-<p align="center">
-Networking • Databases • Python • C Programming • Systems Software • Computer Architecture • Algorithms • System Analysis & Design • Digital Thinking & Innovation
-</p>
+**[AttendAI](https://github.com/Divansshi/face-attendance-system)**: a face-recognition attendance system
+Students mark attendance by looking at a webcam. Lecturers enroll students, manage classes and review an audit log with a snapshot of every scan. Attendance is gated by class time window, once per day and campus network location, with hybrid classes allowed remotely.
+`Python` `Flask` `DeepFace` `OpenCV` `SQLite`
 
 ---
 
-### 📗 Level 2 – Software Development
+### 📚 Academic projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Development-FFB6C1?style=for-the-badge"/>
-</p>
-
-<p align="center">
-Java OOP • Web Development • Data Structures • Operating Systems • Network Administration • System Design Methods • Concurrent Programming
-</p>
-
----
-
-### 📊 Exposure Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced_Exposure-F8A5C2?style=for-the-badge"/>
-</p>
-
-<p align="center">
-Artificial Intelligence • SAP Systems • Mobile & Web Technologies
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| BoutiqueX POS | Point-of-sale system for a fashion boutique, written in assembly | x86 NASM |
+| Smart Healthcare Patient Management | Arrays vs. singly linked lists, compared for a hospital patient system | C++ |
+| APU Automotive Service Centre | Desktop service-centre management app | Java, Swing (OOP) |
+| Take of World Tour | Web-based tour booking platform | Web, SDM |
+| Enterprise network design | Multi-site network built and configured in Packet Tracer | Cisco Packet Tracer |
+| Employee attrition analysis | Exploratory analysis of what drives attrition | R |
 
 ---
 
-## 🚀 CURRENT FOCUS
+### 💼 Experience
 
-<p align="center">
-<img src="https://img.shields.io/badge/Learning-Full_Stack_Development-F8A5C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-First_Projects-ffb6c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Improving-System_Design-FADADD?style=for-the-badge"/>
-</p>
+- **Software Engineering Intern**, 99x IT Solutions (2025)
+- **Data & Business Analysis Intern**, DFCC Bank (2024)
 
-<p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
-</p>
+### 🏆 Involvement
+
+- **R&D Head**, APU Competitive Programming Club (2026–present)
+- **Team lead**, AWS CendekiAwan Competition 2026: a GovTech app concept for Malaysia's government housing project
 
 ---
 
-## 📊 GITHUB STATS
+### 💻 Tech
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divansshi&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Divansshi&theme=rose_pine&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,flask,sqlite,r&perline=10" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,aws,git,github,figma,vscode&perline=10" />
 </p>
 
----
-
-## 📫 CONNECT
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divansshiii">
-    <img src="https://img.shields.io/badge/LinkedIn-F8A5C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:divansshiii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Certifications:** Graphic Design (University of Colombo School of Computing) · AWS Cloud Practitioner and AWS AI Practitioner *(in progress)*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=110&section=footer" />
 </p>
